@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-'''from a list, get numbers that are divisible by 2'''
 def divisible_by_2(my_list=[]):
     result = []
     for i in range(len(my_list)):
